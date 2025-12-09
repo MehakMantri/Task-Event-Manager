@@ -1,4 +1,3 @@
-````
 # Task & Event Manager (Flutter)
 
 A simple mobile app built using Flutter that allows a user to manage tasks and events locally. The app uses a bottom navigation bar with two sections: **Tasks** and **Events**. Both sections support creating, listing, updating, and deleting data.
@@ -128,5 +127,3 @@ build/app/outputs/flutter-apk/app-debug.apk
 You can also use the `app-debug.apk` provided in the repository under `/apk/`.
 
 ---
-
-````
